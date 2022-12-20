@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **shirulynn8@gmail.com**
 
-- ⚡ Fun fact **If I wasn't a developer I'd be an OS cause what's life without coding**
+- ⚡ Fun fact: **If I wasn't a developer I'd be a bug cause tell me what's life without coding🤓**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
