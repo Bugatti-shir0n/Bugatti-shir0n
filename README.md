@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **react js and angular** any resources will be of help.
 
-- 👨‍💻 All of my projects are available at (https://blissful-babbage-2a0c02.netlify.app/)
+- 👨‍💻 All of my projects are available at https://cerulean-melomakarona-724ab3.netlify.app
 
 - 📫 Reach me at **shirulynn8@gmail.com**
 
