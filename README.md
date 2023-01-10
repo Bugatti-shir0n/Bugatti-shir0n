@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **shirulynn8@gmail.com**
 
-- ⚡ Fun fact: **If I wasn't a developer I'd be a bug cause tell me what's life without coding🤓**
+- ⚡ Fun fact: **My love for code has been tested over time, you know, feeling dumber when studying compared to before studying just doesn't faze me, I love it here🤓**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
