@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugatti-shir0n&label=Profile%20views&color=0e75b6&style=flat" alt="bugatti-shir0n" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lynn95879839" target="blank"><img src="https://img.shields.io/twitter/follow/lynn95879839?logo=twitter&style=for-the-badge" alt="lynn95879839" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lynn95879839" target="blank"><img src="https://img.shields.io/twitter/follow/lynndevv?logo=twitter&style=for-the-badge" alt="lynn95879839" /></a> </p>
 
 - 🔭 I’m currently working on my first mobile app using flutter, **(link coming soon)**
 
