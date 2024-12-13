@@ -1,19 +1,17 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hola 👋, I'm Lynn_Dev</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugatti-shir0n&label=Profile%20views&color=0e75b6&style=flat" alt="bugatti-shir0n" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lynn95879839" target="blank"><img src="https://img.shields.io/twitter/follow/lynndevv?logo=twitter&style=for-the-badge" alt="lynn95879839" /></a> </p>
 
-- 🔭 I’m currently working on my first mobile app using flutter, **(link coming soon)**
+- 🌱 I’m currently learning **php and laravel**
 
-- 🌱 I’m currently learning **react js and angular**
+- 👯 I’m looking to  **collaborate on system development**
 
-- 👯 I’m looking to  **collaborate on app development**
-
-- 🤝 I’m looking for help with **react js and angular** any resources will be of help.
+- 🤝 I’m looking for help with **backend** any resources will be of help.
 
 - 👨‍💻 All of my projects are available at https://cerulean-melomakarona-724ab3.netlify.app
 
